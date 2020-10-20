@@ -13,10 +13,10 @@ function preload()
   //load images here
   img = loadImage("Dog.png");
   img2 = loadImage("happydog.png");
-  bedroom = loadImage("virtual pet images/Bed Room.png");
-  garden = loadImage("virtual pet images/Garden.png");
-  washroom = loadImage("virtual pet images/Wash Room.png");
-  sadDog = loadImage("virtual pet images/Lazy.png");
+  bedroom = loadImage("Bed Room.png");
+  garden = loadImage("Garden.png");
+  washroom = loadImage("Wash Room.png");
+  sadDog = loadImage("Lazy.png");
 }
 
 function setup() {
